@@ -1,0 +1,16 @@
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.Properties.Resources.resources
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.src.Forms.MainForm.resources
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\LFPeasy.exe.config
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\LFPeasy.exe
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\LFPeasy.pdb
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.exe
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.pdb
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\WindowsUI.dll
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\obj\Debug\LFPeasy.csproj.CopyComplete
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\RestSharp.dll
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\RestSharp.xml
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\Newtonsoft.Json.dll
+C:\Users\furka\source\repos\LFPeasy\LFPeasy\bin\Debug\Newtonsoft.Json.xml
