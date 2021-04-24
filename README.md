@@ -7,3 +7,6 @@ LF - Peasy is advanced LCU tool for League of Legends
 [+] Auto Accept
 [+] Time status
 [+] Change Status without max length
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
