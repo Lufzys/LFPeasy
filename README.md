@@ -8,7 +8,7 @@ LF - Peasy is advanced LCU tool for League of Legends
 [+] Time status
 [+] Change Status without max length
 
-## LFPeasy powered by ![WindowsUI](https://github.com/lysep-corp/WindowsUI)
+## LFPeasy powered by [WindowsUI](https://github.com/lysep-corp/WindowsUI)
 ![alt text](https://raw.githubusercontent.com/Lufzys/LFPeasy/main/LFPeasy/LFPeasy/570u88.jpg)
 
 
